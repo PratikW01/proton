@@ -5,6 +5,7 @@
 - MySQL 8
 +++++++++++++++++++++
 -Mysql 9
+JDK 22 java jenkins
 
 # Technologies 
 - JAKARTA
